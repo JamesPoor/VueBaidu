@@ -1,20 +1,20 @@
 <template>
   <Head />
-  <Middle />
-  <Bottom />
+  <!-- <Middle />
+  <Bottom /> -->
 </template>
 
 <script>
 import Head from "./components/Head.vue";
-import Middle from "./components/Middle.vue";
-import Bottom from "./components/Bottom.vue";
+// import Middle from "./components/Middle.vue";
+// import Bottom from "./components/Bottom.vue";
 
 export default {
   name: "App",
   components: {
     Head,
-    Middle,
-    Bottom,
+    // Middle,
+    // Bottom,
   },
 };
 </script>

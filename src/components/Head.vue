@@ -24,37 +24,9 @@ export default {
   },
 };
 </script>
-<style scoped>
-.top {
-  width: 100%;
-  margin-top: 20px;
-  display: flex;
-}
-.top-left a {
-  color: black;
-  text-decoration: none;
-  padding-left: 30px;
-  font-size: 14px;
-}
-.top-left a:hover {
-  color: blue;
-}
-.top-right {
-  position: absolute;
-  right: 25px;
-}
-.top-right i,
-span {
-  margin-right: 30px;
-  font-style: normal;
-  font-size: 14px;
-}
-.login {
-  background-color: #5170ea;
-  width: 48px;
-  height: 25px;
-  border: 0;
-  color: #ffff;
-  border-radius: 5px;
+
+<style lang="scss" scoped>
+.top-left {
+  $font-label
 }
 </style>

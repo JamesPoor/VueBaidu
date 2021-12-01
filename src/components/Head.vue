@@ -26,7 +26,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.top-left {
-  $font-label
-}
 </style>
